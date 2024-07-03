@@ -5,3 +5,6 @@ def function1():
 
 def function2():
     return 0
+
+def function3():
+    return 0
